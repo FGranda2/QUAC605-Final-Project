@@ -1,4 +1,7 @@
-# QUAC605-Final-Project
+# QUAC605-Final-Project - Quantum Machine Learning
+
+### Team Members: Tomomi Nakamura, Alexander Varga and Francisco Granda
+
 This repository contains the implementation for the Final Project of QUAC605 for Quantum Machine Learning Techniques.
 
 Before running the Notebook, create and activate a virtual environment with:
@@ -21,4 +24,4 @@ Then, install the required dependencies by running:
 pip install -r requirements.txt
 ```
 
-If running the Notebook on other platform, please refer to the requirements.txt. This file contains a list of all dependencies that can be manually installed on each platform.
+If running the Notebook on other platform, please refer to the requirements.txt. This file contains a list of all dependencies that can be manually installed for running the Notebook.
