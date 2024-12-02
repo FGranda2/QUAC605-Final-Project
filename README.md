@@ -1,7 +1,7 @@
 # QUAC605-Final-Project
 This repository contains the implementation for the Final Project of QUAC605 for Quantum Machine Learning Techniques.
 
-Before running the script, create and activate a virtual environment with:
+Before running the Notebook, create and activate a virtual environment with:
 
 On Linux:
 ```bash
@@ -20,3 +20,5 @@ Then, install the required dependencies by running:
 ```bash
 pip install -r requirements.txt
 ```
+
+If running the Notebook on other platform, please refer to the requirements.txt. This file contains a list of all dependencies that can be manually installed on each platform.
